@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'CyberShield - AI Security',
-  description: 'Next-generation cybersecurity platform powered by artificial intelligence',
+  title: 'QuickShare - Instant File Sharingh',
+  description: 'Instant FIle Sharing without login',
   icons: {
     icon: [
       {

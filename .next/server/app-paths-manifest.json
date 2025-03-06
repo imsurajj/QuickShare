@@ -1,6 +1,0 @@
-{
-  "/icon/route": "app/icon/route.js",
-  "/api/metadata/[fileId]/route": "app/api/metadata/[fileId]/route.js",
-  "/page": "app/page.js",
-  "/share/[fileId]/page": "app/share/[fileId]/page.js"
-}
